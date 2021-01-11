@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on using Image Morphing for optimising the Die Forging process
 - 🌱 I’m currently learning Flutter/Dart for Android App development
-- 👯 I’m looking to collaborate on different hackathons
+- 👯 I’m looking to collaborate on different hackathons and design competitions
 - 🤔 I’m looking for help with integrating Firebase in Flutter apps
 - 💬 Ask me about the last time I had Hot Chocolate 
 - ⚡ Fun fact: I loop a song I love for two days, then hate it forever
