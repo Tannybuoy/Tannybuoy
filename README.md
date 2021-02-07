@@ -11,11 +11,11 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m working on using an app to Connect people Anonymously!
+- 🔭 I’m working on an app to Connect people Anonymously 
 - 🌱 I’m currently learning Flutter/Dart for Android App development
 - 👯 I’m looking to collaborate on different hackathons and design competitions
 - 🤔 I’m looking for help with integrating Firebase in Flutter apps
-- 💬 Ask me about the last time I had Hot Chocolate 
+- 💬 Ask me about the last time I had Hot Chocolate
 - ⚡ Fun fact: I loop a song I love for two days, then hate it forever
 
 
