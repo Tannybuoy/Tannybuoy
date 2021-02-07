@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m working on using Image Morphing for optimising the Die Forging process
+- 🔭 I’m working on using an app to Connect people Anonymously!
 - 🌱 I’m currently learning Flutter/Dart for Android App development
 - 👯 I’m looking to collaborate on different hackathons and design competitions
 - 🤔 I’m looking for help with integrating Firebase in Flutter apps
