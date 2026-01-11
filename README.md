@@ -11,12 +11,12 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m working on an app to Connect people Anonymously 
-- 🌱 I’m currently learning Flutter/Dart for Android App development
-- 👯 I’m open to collaborating in different hackathons and design competitions
-- 🤔 I’m looking for help with integrating Firebase in Flutter apps
-- 💬 Ask me about the last time I had Hot Chocolate
-- ⚡ Fun fact: I loop a song I love for two days, then hate it forever
+- 🔭 I’m working as a Product Manager in B2B Hardware and Analytics domain
+- 🌱 I’m currently learning German
+- 👯 I’m open to collaborating on a podcast/hackathon
+- 🤔 I’m looking for help with building AI agents for PMs
+- 💬 Ask me about the last time I ran a 5k
+- ⚡ Fun fact: I am writing a poetry book (26 poems down)
 
 
 
