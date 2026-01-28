@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋  
 🔭 I’m working as a Product Manager in B2B Hardware and Analytics domain  
 🌱 I’m currently learning German  
 👯 I’m open to collaborating on a podcast/hackathon  
